@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/CMakeFiles/googletest"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

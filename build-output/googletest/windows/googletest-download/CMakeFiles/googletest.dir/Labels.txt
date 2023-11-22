@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/CMakeFiles/googletest
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/CMakeFiles/googletest.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/CMakeFiles/googletest-complete.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+F:/GitHub-Vianovation/sql-server-language-extensions/build-output/googletest/windows/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
